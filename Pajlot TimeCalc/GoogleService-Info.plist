@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>104470825451-uukjupo80nhoo8i1g6j697bumbucu1lj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.104470825451-uukjupo80nhoo8i1g6j697bumbucu1lj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDRvnRWqQ6ttrypeYQ3qEkF31mNYfYkgrg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104470825451</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pl.pajlot.TimeCalc</string>
+	<key>PROJECT_ID</key>
+	<string>pajlot-timecalc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pajlot-timecalc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104470825451:ios:52cd18db4d11c170</string>
+	<key>DATABASE_URL</key>
+	<string>https://pajlot-timecalc.firebaseio.com</string>
+</dict>
+</plist>

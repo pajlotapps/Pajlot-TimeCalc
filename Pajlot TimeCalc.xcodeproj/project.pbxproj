@@ -12,9 +12,27 @@
 		6633760E201DFCA500BE5010 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6633760C201DFCA500BE5010 /* Main.storyboard */; };
 		66337610201DFCA500BE5010 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6633760F201DFCA500BE5010 /* Assets.xcassets */; };
 		66337613201DFCA500BE5010 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66337611201DFCA500BE5010 /* LaunchScreen.storyboard */; };
+		6633761B201DFDA400BE5010 /* RoundedCalcBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6633761A201DFDA400BE5010 /* RoundedCalcBtn.swift */; };
+		6633761D201DFDBA00BE5010 /* timeCalcVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6633761C201DFDBA00BE5010 /* timeCalcVC.swift */; };
+		66337621201DFE1D00BE5010 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 66337620201DFE1D00BE5010 /* GoogleService-Info.plist */; };
+		66337623201E122300BE5010 /* RoundedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66337622201E122300BE5010 /* RoundedView.swift */; };
+		66337625201E13E500BE5010 /* OptionsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66337624201E13E500BE5010 /* OptionsVC.swift */; };
+		6633762B201E159D00BE5010 /* extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6633762A201E159D00BE5010 /* extensions.swift */; };
+		6633762D201E15BC00BE5010 /* variables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6633762C201E15BC00BE5010 /* variables.swift */; };
+		6633762F201E185400BE5010 /* ContactPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6633762E201E185400BE5010 /* ContactPage.swift */; };
+		66337632201E1BAD00BE5010 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 66337630201E1BAD00BE5010 /* Localizable.strings */; };
+		66337635201E229100BE5010 /* SelectLanguage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66337634201E229100BE5010 /* SelectLanguage.swift */; };
+		66337637201E230700BE5010 /* LanguageManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66337636201E230700BE5010 /* LanguageManger.swift */; };
+		66337639201E24D800BE5010 /* DonateVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66337638201E24D800BE5010 /* DonateVC.swift */; };
+		666488A720248C740047BC97 /* upgradePopUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 666488A620248C740047BC97 /* upgradePopUp.swift */; };
+		666488A9202497F30047BC97 /* upgradeToProVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 666488A8202497F30047BC97 /* upgradeToProVC.swift */; };
+		66E113012024D899001C65C0 /* usefulFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66E113002024D899001C65C0 /* usefulFunctions.swift */; };
+		66FCFECD201E28BF00AD7342 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66FCFECC201E28BF00AD7342 /* GoogleMobileAds.framework */; };
+		8C4D85EFBACBB6AD7325DB40 /* Pods_Pajlot_TimeCalc.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BADE05F2AFCAB4C49B5116DF /* Pods_Pajlot_TimeCalc.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E2E44FE5519085C6EB360BD /* Pods-Pajlot TimeCalc.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pajlot TimeCalc.release.xcconfig"; path = "Pods/Target Support Files/Pods-Pajlot TimeCalc/Pods-Pajlot TimeCalc.release.xcconfig"; sourceTree = "<group>"; };
 		66337605201DFCA500BE5010 /* Pajlot TimeCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pajlot TimeCalc.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		66337608201DFCA500BE5010 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6633760A201DFCA500BE5010 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +40,25 @@
 		6633760F201DFCA500BE5010 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		66337612201DFCA500BE5010 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		66337614201DFCA500BE5010 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6633761A201DFDA400BE5010 /* RoundedCalcBtn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCalcBtn.swift; sourceTree = "<group>"; };
+		6633761C201DFDBA00BE5010 /* timeCalcVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timeCalcVC.swift; sourceTree = "<group>"; };
+		66337620201DFE1D00BE5010 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		66337622201E122300BE5010 /* RoundedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedView.swift; sourceTree = "<group>"; };
+		66337624201E13E500BE5010 /* OptionsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsVC.swift; sourceTree = "<group>"; };
+		6633762A201E159D00BE5010 /* extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extensions.swift; sourceTree = "<group>"; };
+		6633762C201E15BC00BE5010 /* variables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = variables.swift; sourceTree = "<group>"; };
+		6633762E201E185400BE5010 /* ContactPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactPage.swift; sourceTree = "<group>"; };
+		66337631201E1BAD00BE5010 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		66337633201E1BB800BE5010 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		66337634201E229100BE5010 /* SelectLanguage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectLanguage.swift; sourceTree = "<group>"; };
+		66337636201E230700BE5010 /* LanguageManger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageManger.swift; sourceTree = "<group>"; };
+		66337638201E24D800BE5010 /* DonateVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonateVC.swift; sourceTree = "<group>"; };
+		666488A620248C740047BC97 /* upgradePopUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = upgradePopUp.swift; sourceTree = "<group>"; };
+		666488A8202497F30047BC97 /* upgradeToProVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = upgradeToProVC.swift; sourceTree = "<group>"; };
+		66E113002024D899001C65C0 /* usefulFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = usefulFunctions.swift; sourceTree = "<group>"; };
+		66FCFECC201E28BF00AD7342 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMobileAds.framework; path = "Pajlot TimeCalc/GoogleMobileAds.framework"; sourceTree = "<group>"; };
+		BADE05F2AFCAB4C49B5116DF /* Pods_Pajlot_TimeCalc.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pajlot_TimeCalc.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E06D2E7682103BAE86ED7C56 /* Pods-Pajlot TimeCalc.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pajlot TimeCalc.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Pajlot TimeCalc/Pods-Pajlot TimeCalc.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +66,30 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66FCFECD201E28BF00AD7342 /* GoogleMobileAds.framework in Frameworks */,
+				8C4D85EFBACBB6AD7325DB40 /* Pods_Pajlot_TimeCalc.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		263D705436EDDEF59CA9A6AE /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E06D2E7682103BAE86ED7C56 /* Pods-Pajlot TimeCalc.debug.xcconfig */,
+				2E2E44FE5519085C6EB360BD /* Pods-Pajlot TimeCalc.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		663375FC201DFCA500BE5010 = {
 			isa = PBXGroup;
 			children = (
 				66337607201DFCA500BE5010 /* Pajlot TimeCalc */,
 				66337606201DFCA500BE5010 /* Products */,
+				263D705436EDDEF59CA9A6AE /* Pods */,
+				9F5CC43E5DB76DF94A14EE7E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,12 +106,44 @@
 			children = (
 				66337608201DFCA500BE5010 /* AppDelegate.swift */,
 				6633760A201DFCA500BE5010 /* ViewController.swift */,
+				666488A8202497F30047BC97 /* upgradeToProVC.swift */,
 				6633760C201DFCA500BE5010 /* Main.storyboard */,
+				6633761C201DFDBA00BE5010 /* timeCalcVC.swift */,
+				6633761A201DFDA400BE5010 /* RoundedCalcBtn.swift */,
 				6633760F201DFCA500BE5010 /* Assets.xcassets */,
 				66337611201DFCA500BE5010 /* LaunchScreen.storyboard */,
+				66337620201DFE1D00BE5010 /* GoogleService-Info.plist */,
 				66337614201DFCA500BE5010 /* Info.plist */,
+				66337622201E122300BE5010 /* RoundedView.swift */,
+				6633763A201E26FA00BE5010 /* Options */,
+				6633762A201E159D00BE5010 /* extensions.swift */,
+				6633762C201E15BC00BE5010 /* variables.swift */,
+				66337630201E1BAD00BE5010 /* Localizable.strings */,
+				666488A620248C740047BC97 /* upgradePopUp.swift */,
+				66E113002024D899001C65C0 /* usefulFunctions.swift */,
 			);
 			path = "Pajlot TimeCalc";
+			sourceTree = "<group>";
+		};
+		6633763A201E26FA00BE5010 /* Options */ = {
+			isa = PBXGroup;
+			children = (
+				66337624201E13E500BE5010 /* OptionsVC.swift */,
+				66337638201E24D800BE5010 /* DonateVC.swift */,
+				6633762E201E185400BE5010 /* ContactPage.swift */,
+				66337634201E229100BE5010 /* SelectLanguage.swift */,
+				66337636201E230700BE5010 /* LanguageManger.swift */,
+			);
+			path = Options;
+			sourceTree = "<group>";
+		};
+		9F5CC43E5DB76DF94A14EE7E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				66FCFECC201E28BF00AD7342 /* GoogleMobileAds.framework */,
+				BADE05F2AFCAB4C49B5116DF /* Pods_Pajlot_TimeCalc.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +153,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 66337617201DFCA500BE5010 /* Build configuration list for PBXNativeTarget "Pajlot TimeCalc" */;
 			buildPhases = (
+				01FA0AF695DC37B9CE3E89FA /* [CP] Check Pods Manifest.lock */,
 				66337601201DFCA500BE5010 /* Sources */,
 				66337602201DFCA500BE5010 /* Frameworks */,
 				66337603201DFCA500BE5010 /* Resources */,
+				1C3DCA3CC88FB4BD6583CFF8 /* [CP] Embed Pods Frameworks */,
+				FC06FB92801F3706173A4511 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -107,6 +192,7 @@
 			knownRegions = (
 				en,
 				Base,
+				pl,
 			);
 			mainGroup = 663375FC201DFCA500BE5010;
 			productRefGroup = 66337606201DFCA500BE5010 /* Products */;
@@ -123,7 +209,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66337632201E1BAD00BE5010 /* Localizable.strings in Resources */,
 				66337613201DFCA500BE5010 /* LaunchScreen.storyboard in Resources */,
+				66337621201DFE1D00BE5010 /* GoogleService-Info.plist in Resources */,
 				66337610201DFCA500BE5010 /* Assets.xcassets in Resources */,
 				6633760E201DFCA500BE5010 /* Main.storyboard in Resources */,
 			);
@@ -131,13 +219,82 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		01FA0AF695DC37B9CE3E89FA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Pajlot TimeCalc-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1C3DCA3CC88FB4BD6583CFF8 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Pajlot TimeCalc/Pods-Pajlot TimeCalc-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Pajlot TimeCalc/Pods-Pajlot TimeCalc-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FC06FB92801F3706173A4511 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Pajlot TimeCalc/Pods-Pajlot TimeCalc-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		66337601201DFCA500BE5010 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				666488A9202497F30047BC97 /* upgradeToProVC.swift in Sources */,
+				66E113012024D899001C65C0 /* usefulFunctions.swift in Sources */,
 				6633760B201DFCA500BE5010 /* ViewController.swift in Sources */,
+				66337639201E24D800BE5010 /* DonateVC.swift in Sources */,
+				66337635201E229100BE5010 /* SelectLanguage.swift in Sources */,
+				66337625201E13E500BE5010 /* OptionsVC.swift in Sources */,
+				666488A720248C740047BC97 /* upgradePopUp.swift in Sources */,
 				66337609201DFCA500BE5010 /* AppDelegate.swift in Sources */,
+				6633762F201E185400BE5010 /* ContactPage.swift in Sources */,
+				6633762D201E15BC00BE5010 /* variables.swift in Sources */,
+				6633762B201E159D00BE5010 /* extensions.swift in Sources */,
+				6633761D201DFDBA00BE5010 /* timeCalcVC.swift in Sources */,
+				66337623201E122300BE5010 /* RoundedView.swift in Sources */,
+				6633761B201DFDA400BE5010 /* RoundedCalcBtn.swift in Sources */,
+				66337637201E230700BE5010 /* LanguageManger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,6 +317,15 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
+		66337630201E1BAD00BE5010 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				66337631201E1BAD00BE5010 /* en */,
+				66337633201E1BB800BE5010 /* pl */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -167,6 +333,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -211,7 +378,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -224,6 +391,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -262,7 +430,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -272,13 +440,21 @@
 		};
 		66337618201DFCA500BE5010 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E06D2E7682103BAE86ED7C56 /* Pods-Pajlot TimeCalc.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6Y7V65FES8;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Pajlot\\ TimeCalc",
+					"$(PROJECT_DIR)/Pajlot\\ TimeCalc/Frameworks",
+					"$(PROJECT_DIR)/Pajlot\\ TimeCalc",
+				);
 				INFOPLIST_FILE = "Pajlot TimeCalc/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "pl.pajlot.TimeCalc.Pajlot-TimeCalc";
+				PRODUCT_BUNDLE_IDENTIFIER = pl.pajlot.TimeCalc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -287,13 +463,21 @@
 		};
 		66337619201DFCA500BE5010 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2E2E44FE5519085C6EB360BD /* Pods-Pajlot TimeCalc.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6Y7V65FES8;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Pajlot\\ TimeCalc",
+					"$(PROJECT_DIR)/Pajlot\\ TimeCalc/Frameworks",
+					"$(PROJECT_DIR)/Pajlot\\ TimeCalc",
+				);
 				INFOPLIST_FILE = "Pajlot TimeCalc/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "pl.pajlot.TimeCalc.Pajlot-TimeCalc";
+				PRODUCT_BUNDLE_IDENTIFIER = pl.pajlot.TimeCalc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

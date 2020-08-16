@@ -1,0 +1,36 @@
+
+//Options
+"OptionsText" = "We make every effort to ensure that the E6B interface is the most user-friendly and its functions as useful as it possible. \n\nIf you have any idea to improvements or maybe you have found an error or discovered that the app is not working properly, please fell free and contact us immediatly.";
+
+"OptionsGuideStatus" = "Welcome guide";
+"OptionsWizzardStatus" = "Settings wizzard";
+"OptionsDisclaimerStatus" = "Disclaimer";
+"OptionsLanguageLbl" = "Change language";
+"OptionsContactLbl" = "Contact";
+"OptionsDonateLbl" = "Donate";
+"OptionsRateLbl" = "Rate app";
+
+//Donate
+"DonateTitle" = "Donate";
+"ShowHideLbl" = "Show/hide QR Code";
+"DonateInfo1" = "Thank you for using our app. \nIf you would like to motivate us further, consider purchase PRO version or/and donating to us.";
+"DonateInfo2" = "Below you can find public key and QR code \nto our BTC wallet.";
+
+//Change language
+"ChangeLanguageTitle" = "Choose language";
+"PolishLangLbl" = "Polish";
+"EnglishLangLbl" = "English";
+"SLinfo1" = "Choose app interface language from options available above.";
+"SLinfo2" = "Sometimes the app should be restarted to change language correctly.";
+
+//Contact
+"ContactTitle" = "Contact";
+"ContactInfo1" = "Check out our profiles on social media websites! ";
+"ContactInfo2" = "You can also contact with us via e-mail";
+
+//Upgrade popup
+"soonInAppStoreText" = "AVAILABLE IN APP STORE!";
+"featuresTextFieldText" = "WHAT YOU CAN GET:\n• NO ADVERTS\n• FREQUENT UPDATES\n• BETTER SUPPORT";
+"goToAppStoreBtn" = "VISIT APP STORE";
+"notInterestedBtn" = "NOT INTRESTED";
+

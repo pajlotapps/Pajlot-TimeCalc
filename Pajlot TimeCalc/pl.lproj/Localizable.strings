@@ -1,0 +1,36 @@
+
+//Options
+"OptionsText" = "Dokładamy wszelkich starań, aby interfejs \naplikacji był jak najbardziej przyjazny dla \nużytkownika. \n\nJeśli masz jakiś pomysł na usprawnienie \naplikacji albo być może znalazłeś błąd lub \nodkryłeś, że aplikacja działa nieprawidłowo, \nskontaktuj się z nami.";
+
+"OptionsGuideStatus" = "Przewodnik powitalny";
+"OptionsWizzardStatus" = "Kreator ustawień";
+"OptionsDisclaimerStatus" = "Ostrzeżenie";
+"OptionsLanguageLbl" = "Zmień język";
+"OptionsContactLbl" = "Kontakt";
+"OptionsDonateLbl" = "Wesprzyj twórców";
+"OptionsRateLbl" = "Oceń aplikację";
+
+//Donate
+"DonateTitle" = "Wesprzyj twórców";
+"ShowHideLbl" = "Pokaż/ukryj QR Code";
+"DonateInfo1" = "Dzięki za używanie aplikacji! Jeśli chciałbyś nas dodatkowo zmotywować do pracy, możesz rozważyć zakup wersji PRO lub/i przekazanie darowizny.";
+"DonateInfo2" = "Poniżej znajduje się adres publiczny porfela BTC";
+
+//Change language
+"ChangeLanguageTitle" = "Wybierz język";
+"PolishLangLbl" = "Polski";
+"EnglishLangLbl" = "Angielski";
+"SLinfo1" = "Wybierz interesujący Cię język z dostępnych powyżej.";
+"SLinfo2" = "Czasami, aby język aplikacji został poprawnie zmieniony, \naplikacja powinna zostać uruchomiona ponownie.";
+
+//Contact
+"ContactTitle" = "Kontakt";
+"ContactInfo1" = "Odwiedź nasz funpage na jednym z poniższych portali społecznościowych. ";
+"ContactInfo2" = "Możesz także kliknąć w ikonkę poniżej i wysłać nam maila:";
+
+//Upgrade popup
+"soonInAppStoreText" = "JUŻ W APP STORE!";
+"featuresTextFieldText" = "KUPUJĄC PRO ZYSKUJESZ:\n• BRAK REKLAM\n• CZĘSTSZE AKTUALIZACJE\n• LEPSZE WSPARCIE TECHNICZNE";
+"goToAppStoreBtn" = "PRZEJDŹ DO APP STORE";
+"notInterestedBtn" = "NIE JESTEM ZAINTERESOWANY";
+
